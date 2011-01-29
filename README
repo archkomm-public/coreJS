@@ -1,0 +1,23 @@
+coreJS
+===========
+
+Simple JavaScript utility class.
+(it will be released in some days!)
+
+
+Description
+---------------
+
+coreJS provides simple functions to generate random Strings and to include other JavaScript files.
+
+
+Contributors
+------------
+
+ * Johannes Boyne <boyne@archkomm.com>
+
+
+License
+-------
+
+coreJS is licensed under the MIT License. (See LICENSE)
